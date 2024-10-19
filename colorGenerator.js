@@ -7,8 +7,6 @@ function randomColor() {
 
 console.log(randomColor());
 
-  // for(let i = 0; i < 6; i++) {
-  //   console.log(hex[randomColor()]);
-  //   console.log(hex[randomColor()]);
-  //   console.log(hex[randomColor()]);
-  // }
+  for(let i = 0; i < 6; i++) {
+    console.log(hex[randomColor()]);
+  }
