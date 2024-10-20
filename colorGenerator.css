@@ -1,0 +1,23 @@
+body {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: start;
+}
+
+.buttons {
+  display: flex;
+  flex-direction: column;
+  gap: 50vh;
+}
+
+.button-two {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#js-colorBtn {
+  font-weight: bolder;
+  font-size: 20px;
+}
